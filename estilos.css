@@ -89,6 +89,7 @@ footer i{
     color: #f0d7ab;
     text-decoration: none;
 }
+
 @media screen and (max-width:1240px) {
     .center{
         grid-template-columns: 33% 33% 33%;
