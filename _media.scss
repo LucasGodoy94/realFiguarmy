@@ -1,0 +1,9 @@
+@media screen and (max-width: 1240px) {
+    .center {
+    grid-template-columns: 33% 33% 33%; } }
+@media screen and (max-width: 940px) {
+    .center {
+    grid-template-columns: 50% 50%; } }
+@media screen and (max-width: 620px) {
+    .center {
+    grid-template-columns: 1fr; } }
