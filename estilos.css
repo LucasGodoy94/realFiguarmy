@@ -39,7 +39,6 @@
 
 h2 {
   color: white;
-  text-align: auto;
   text-shadow: #333 solid 3px;
   text-align: center; }
 
@@ -114,3 +113,8 @@ footer i {
 
 .boton--comprar {
   background-color: #f0d7ab; }
+
+.centrar {
+  align-items: center;
+  text-align: center;
+  color: white; }

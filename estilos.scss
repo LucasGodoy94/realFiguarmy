@@ -32,7 +32,6 @@ $color2: #f0d7ab;
 }
 h2{
     color: white;
-    text-align: auto;
     text-shadow: #333 solid 3px;
     text-align: center;
 } 
@@ -111,4 +110,9 @@ width: 100%;
 .boton--comprar{
 @extend .boton;
 background-color: $color2;
+}
+.centrar{
+    align-items: center;
+    text-align: center;
+    color: white;
 }
